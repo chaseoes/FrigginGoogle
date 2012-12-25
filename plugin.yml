@@ -1,0 +1,9 @@
+name: FrigginGoogle
+main: me.chaseoes.friggingoogle.FrigginGoogle
+authors: [chaseoes]
+version: 1.0
+description: Use friggin Google!
+commands:
+  google:
+    description: Get a link to Google results of provided search terms.
+    usage: /google <search terms>
